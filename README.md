@@ -6,7 +6,7 @@ Si vuole creare un sistema di gestione ore di lavoro di bagnini e istruttori.
 
 Schermate:
 -Login/registrazione ricevendo in risposta idbagnino
-    -Dati da inserire per signup: Nome, Cognome, Mail, Password, Brevetto AB(Bool), Brevetto istruttore(Bool--> default=false), Brevetto Neonatale(Bool--> default=false),
+    -Dati da inserire per signup: Nome, Cognome, Mail, Password, Brevetto AB(Bool), Brevetto Neonatale(Bool--> default=false),
     Brevetto baby(Bool--> default=false), Brevetto fitness(Bool--> default=false), Brevetto sport acqua(Bool--> default=false), Brevetto nuoto(Bool--> default=false),
     -restituisci ID
 
