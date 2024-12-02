@@ -152,4 +152,3 @@ Stream<List<Map<String, dynamic>>> getTurni(String bagninoId, {int mese, int ann
 Puoi aggiungere funzioni serverless Firebase per:
 - Calcolare i compensi.
 - Validare i brevetti.
-```
