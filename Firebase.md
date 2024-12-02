@@ -1,6 +1,3 @@
-Ecco il testo formattato che puoi copiare direttamente:
-
-```
 # Guida all'integrazione di Firebase per il progetto *PoolSchedule*
 
 ## 1. Configurazione del progetto
@@ -156,5 +153,3 @@ Puoi aggiungere funzioni serverless Firebase per:
 - Calcolare i compensi.
 - Validare i brevetti.
 ```
-
-Questo è il testo completo che puoi copiare e incollare in un file Markdown (`.md`).
