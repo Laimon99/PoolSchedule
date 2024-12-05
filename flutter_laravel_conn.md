@@ -1,4 +1,3 @@
-```markdown
 # Connessione Frontend Flutter al Backend Laravel in Locale
 
 ## 1. Configurazione del Backend Laravel
@@ -63,3 +62,5 @@ Se siete su reti diverse, il tuo amico dovrà esporre il backend tramite un indi
 ## 6. Sicurezza
 Proteggete l’accesso alle API utilizzando autenticazione, ad esempio tramite **token JWT**, per evitare accessi non autorizzati.
 ```
+
+Questo formato utilizza intestazioni, sezioni, e blocchi di codice per facilitare la leggibilità su GitHub.
