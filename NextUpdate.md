@@ -14,3 +14,4 @@
 ## SEZIONE PISCINA
 1. Dettagli piscina con immagine
 2. Possibilità di chattare con la piscina
+3. Bacheca annunci
